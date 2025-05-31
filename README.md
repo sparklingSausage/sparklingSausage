@@ -1,1 +1,1 @@
-Just some dude doing shitty stuff
+Feel free to check out some of my recent work
