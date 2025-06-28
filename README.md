@@ -1,11 +1,25 @@
-Feel free to check out some of my recent work
+# Welcome
 
-##### Shit I more or less learned
-- HTML/CSS
-- JavaScript (Basics)
-- Python (Basics)
-- Java
-- C++ (Basics)
-- Bash (Basics)
-- GoLang (Still learning)
-- Typescript (Still learning)
+Hi :)
+
+---
+
+## Skills & Tools
+
+### Web Development
+- **HTML/CSS**
+- **JavaScript** (Basics)
+- **TypeScript** (Learning)
+
+### Programming Languages
+- **Python** (Basics)
+- **Java**
+- **C++** (Basics)
+- **Go** (Learning)
+- **Bash** (Basics)
+
+---
+
+## Currently Learning
+- **GoLang**
+- **TypeScript**
