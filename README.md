@@ -1,17 +1,17 @@
-# Welcome
+# 👋 Welcome
 
 Hi :)
 
 ---
 
-## Skills & Tools
+## ⭐ Skills & Tools
 
-### Web Development
+### 🌐 Web Development
 - **HTML/CSS**
 - **JavaScript** (Basics)
 - **TypeScript** (Learning)
 
-### Programming Languages
+### 🧑‍💻 Programming Languages
 - **Python** (Basics)
 - **Java**
 - **C++** (Basics)
@@ -20,6 +20,6 @@ Hi :)
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 - **GoLang**
 - **TypeScript**
