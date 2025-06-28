@@ -2,7 +2,6 @@
 
 Hi :)
 
----
 
 ## ⭐ Skills & Tools
 
@@ -17,8 +16,6 @@ Hi :)
 - **C++** (Basics)
 - **Go** (Learning)
 - **Bash** (Basics)
-
----
 
 ## 📚 Currently Learning
 - **GoLang**
