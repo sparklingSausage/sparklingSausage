@@ -3,7 +3,7 @@
 Hi :)
 
 
-## ⭐ Skills & Tools
+## ⭐ Skills
 
 ### 🌐 Web Development
 - **HTML/CSS**
